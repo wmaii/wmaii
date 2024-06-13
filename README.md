@@ -6,4 +6,4 @@ Meu nome é Maiza Antonio Silva
 - Estou aprendendo a linguagem JavaScript
 - Utilizo esse espaço para compartilhar meus projetos
   
-![](https://tenor.com/pt-BR/view/cupid-happy-bday-discord-friends-gif-20514655)
+![](https://media1.tenor.com/m/5LoqORvgsbAAAAAd/cool-sidoka.gif)
